@@ -11,9 +11,9 @@ Objectives:
 Dashboard Components:
 
 1. Monthly Sales Trend
-• Type: Combo Chart (Bar + Line)
-• Metrics: Sum of Quantity and Month-wise trend
-• Insight: Highlights peak sales months and drop-offs
+* Type: Combo Chart (Bar + Line)
+* Metrics: Sum of Quantity and Month-wise trend
+* Insight: Highlights peak sales months and drop-offs
 
 2. Category Filter
 • Type: Slicer
