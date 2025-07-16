@@ -16,29 +16,29 @@ Dashboard Components:
 * Insight: Highlights peak sales months and drop-offs
 
 2. Category Filter
-• Type: Slicer
-• Options: Apparel, Electronics, Grocery
-• Use: Enables targeted category analysis
+* Type: Slicer
+* Options: Apparel, Electronics, Grocery
+* Use: Enables targeted category analysis
 
 3. Sales by Subcategory
-• Type: Donut Chart
-• Details: Visual distribution across subcategories such as Laptops, Shoes, Beverages, etc.
+* Type: Donut Chart
+* Details: Visual distribution across subcategories such as Laptops, Shoes, Beverages, etc.
 
 4. Delivery Option Breakdown
-• Type: Pie Chart
-• Insight: Comparison between Home Delivery (49.6%) and In-Store Pickup (50.3%)
+* Type: Pie Chart
+* Insight: Comparison between Home Delivery (49.6%) and In-Store Pickup (50.3%)
 
 5. Sales by Category
-• Type: Bar Chart
-• Insight: Revenue comparison across Apparel, Electronics, and Grocery
+* Type: Bar Chart
+* Insight: Revenue comparison across Apparel, Electronics, and Grocery
 
 6. Quantity by Supplier
-• Type: Donut Chart
-• Insight: Quantity supplied by vendors such as Farrell-Rhodes, Holland and Sons, etc.
+* Type: Donut Chart
+* Insight: Quantity supplied by vendors such as Farrell-Rhodes, Holland and Sons, etc.
 
 7. Sales by Product Name
-• Type: Horizontal Bar Chart
-• Insight: Highlights top-selling products (e.g., Seven Ever, Oil Hotel)
+* Type: Horizontal Bar Chart
+* Insight: Highlights top-selling products (e.g., Seven Ever, Oil Hotel)
 
 
 
